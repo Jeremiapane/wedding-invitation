@@ -47,11 +47,11 @@ function App() {
                     <img src={polaroid} alt="" className="max-w-full h-auto" />
                 </div>
             </section>
-            <section className="flex flex-col justify-center items-center gap-4">
+            <section className="flex flex-col justify-center items-center gap-4 p-5">
                 <div className="count-wrapper flex flex-col justify-center items-center w-md gap-4 w-full p-20 ">
                     <h2 className="font-semibold">Hitung Mundur</h2>
-                    <h1 className="script sm:text-5xl text-4xl">Hari Bahagia Kami</h1>
-                    <div className="date-countdown flex gap-8">
+                    <h1 className="script sm:text-5xl text-4xl text-center">Hari Bahagia Kami</h1>
+                    <div className="date-countdown flex gap-2 sm:gap-6 p-2">
                         <div className="day flex flex-col items-center justify-center bg-pink-500 p-5 rounded-lg text-white  w-[80px]">
                             <span id="date" className="font-semibold"></span>
                             <span>Hari</span>
@@ -71,7 +71,7 @@ function App() {
                     </div>
                 </div>
             </section>
-            <section className="flex flex-col sm:flex-row  items-center justify-center gap-2 mb-4">
+            <section className="flex flex-col sm:flex-row items-center justify-center gap-2 mb-4 w-full">
                 <div className="text-center flex flex-col justify-center items-center gap-4 p-10 border">
                     <img src={ring} alt="" width={370} />
                     <h1 className="text-5xl script">Resepsi Pernikahan</h1>
