@@ -43,7 +43,7 @@ function App() {
                     <h3 className="text-2xl font-bold">Ivan Firman Sthevanus Hutauruk, S.T.</h3>
                     <span className="text-sm font-normal">Putra dari Bapak Darwin Hutauruk, S.Sos & Ibu Magdalena Tambunan, SP</span>
                     <p className="font-semibold text-xl">
-                        Kamis, 24 Oktober 2024 <br /> 10.00 WIB s/d Selesai
+                        Kamis, 24 Oktober 2024 <br /> 12.00 WIB
                     </p>
                     <p>
                         Gereja GKPI Medan Kota Resort Medan Barat <br />
@@ -81,9 +81,9 @@ function App() {
             <section className="flex flex-col sm:flex-row items-center justify-center gap-2 mb-4 w-full">
                 <div className="text-center flex flex-col justify-center items-center gap-4 p-10 border">
                     <img src={ring} alt="" width={370} />
-                    <h1 className="text-5xl script">Resepsi Pernikahan</h1>
+                    <h1 className="text-5xl script">Pemberkatan Pernikahan</h1>
                     <p className="font-semibold text-xl">
-                        Kamis, 24 Oktober 2024 <br /> 10.00 WIB s/d Selesai
+                        Kamis, 24 Oktober 2024 <br /> 11.00 WIB s/d Selesai
                     </p>
                     <p>
                         Gereja GKPI Medan Kota Resort Medan Barat <br />
@@ -101,9 +101,9 @@ function App() {
                 </div>
                 <div className="text-center flex flex-col justify-center items-center w-md gap-4 p-10 border">
                     <img src={couple} alt="" width={370} />
-                    <h1 className="text-5xl script">Adat</h1>
+                    <h1 className="text-5xl script">Acara Adat</h1>
                     <p className="font-semibold text-xl">
-                        Kamis, 24 Oktober 2024 <br /> 11.00 WIB s/d Selesai
+                        Kamis, 24 Oktober 2024 <br /> 12.00 WIB s/d Selesai
                     </p>
                     <p>
                         Gedung Serba Guna "GKPI MEDAN KOTA" <br />
