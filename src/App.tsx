@@ -38,12 +38,10 @@ function App() {
                 <div className="flex flex-col text-center w-full sm:w-1/2 gap-6 basis-2/3">
                     <p className="font-semibold mt-4">Dengan rasa syukur, kami mengundang Bapak/Ibu/Saudara/i untuk hadir dan memberikan doa restu pada Pesta Pemberkatan Pernikahan putri kami.</p>
                     <h3 className="text-2xl font-bold mt-8">Putri Andriani Pane</h3>
-                    <span className="text-sm font-thin">
-                        Putri dari Bapak St. Eli Tohonan Tua Pane, M.Pd. / Elrada Sijabat <br /> & Putri Kandung dari Bapak Antoni Pane / Sri Heriani
-                    </span>
+                    <span className="text-sm font-normal">Putri dari Bapak St. Eli Tohonan Tua Pane, M.Pd. / Elrada Sijabat</span>
                     <p className="text-3xl font-semibold">&</p>
                     <h3 className="text-2xl font-bold">Ivan Firman Sthevanus Hutauruk, S.T.</h3>
-                    <span className="text-sm font-thin">Putra dari Bapak Darwin Hutauruk, S.Sos & Ibu Magdalena Tambunan, SP</span>
+                    <span className="text-sm font-normal">Putra dari Bapak Darwin Hutauruk, S.Sos & Ibu Magdalena Tambunan, SP</span>
                     <p className="font-semibold text-xl">
                         Kamis, 24 Oktober 2024 <br /> 10.00 WIB s/d Selesai
                     </p>
